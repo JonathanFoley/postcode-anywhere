@@ -19,7 +19,7 @@
   "prefer-stable": true,
   "require": {
     "php": "^7.1",
-    "laravel/framework": "^7.6|^v8.40.0"
+    "laravel/framework": "^7.3|^v8.40.0"
   }
   ,
   "require-dev": {
