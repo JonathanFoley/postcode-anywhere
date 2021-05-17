@@ -19,7 +19,11 @@
   "prefer-stable": true,
   "require": {
     "php": "^7.1",
-    "laravel/framework": "^5.0|^6.0|^7.0"
+    "laravel/framework": "^5.0|^6.20.26|^v7.30.4|^v8.40.0"
+  }
+  ,
+  "require-dev": {
+    "roave/security-advisories": "dev-latest"
   },
   "autoload": {
     "psr-4": {
